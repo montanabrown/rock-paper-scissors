@@ -1,6 +1,6 @@
 let userChoice = prompt('[1]Rock, [2]Paper, [3]Scissors?')
 let computerChoice = Math.random()
-let computerRoll = (computerChoice)
+let computerRoll = (computerChoice) /* placeholder until computerRoll is passed in */
 
 /* Computer Choice */
 	
